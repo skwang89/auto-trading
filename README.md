@@ -12,3 +12,6 @@
 #### 프로그램
 - 키움 OpenAPI+ 자동 버전처리 프로그램 | [깃허브](https://github.com/sharebook-kr/kiwoom-version)
 - 윈도우 상에 실행 중인 프로그램의 구조를 살펴보는 프로그램 | [깃허브](https://github.com/pywinauto/SWAPY)
+
+#### 사이트
+- 무료 아이콘 검색 | [사이트1](http://www.myiconfinder.com/) | [사이트2](https://www.flaticon.com/)
