@@ -3,12 +3,12 @@
 파이썬을 이용한 주식 자동 매매 프로그램
 
 ## 개발환경
-python 3.6
+win-32bit, python 3.7
 
 ## 참조
 
 #### 서적
-- [파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110) | [깃허브](https://github.com/pystockhub/book)   
+- 주식 거래 시스템 구축 | [깃허브](https://github.com/programgarden/book)   
 - [퀀트 투자를 위한 키움증권 API](https://wikidocs.net/book/1173)
 - 파이썬과 케라스를 이용한 딥러닝/강화학습 주식투자 | [깃허브](https://github.com/quantylab/rltrader)
 

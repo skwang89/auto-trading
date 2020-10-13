@@ -1,10 +1,19 @@
+import sys
+
 from kiwoom.kiwoom import *
+from PyQt5.QtWidgets import *
 
 class Main():
     def __init__(self):
         print("Main() start")
 
-        Kiwoom()
+        # PyQt로 실행할 파일명을 자동 설정
+        self.app = QApplication(sys.argv)
+        # 키움 클래스 객체화
+        self.kiwoom = Kiwoom()
+        # 이벤트 루프 실행
+        self.app.exec_()
 
 if __name__ == "__main__":
     Main()
+
